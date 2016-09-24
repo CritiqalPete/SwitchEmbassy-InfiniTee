@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/v_btn"
+        android:layout_width="250px"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/l_btn"
+        android:layout_below="@+id/l_btn"
+        android:layout_marginTop="84dp"
+        android:text="Smiley" />
+
+    <Button
+        android:id="@+id/e_btn"
+        android:layout_width="250px"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/v_btn"
+        android:layout_alignLeft="@+id/o_btn"
+        android:text="Stay True" />
+
+    <Button
+        android:id="@+id/o_btn"
+        android:layout_width="250px"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/v_btn"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="33dp"
+        android:text="Hi" />
+
+    <TextView
+        android:id="@+id/f_rate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/seekbar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="44dp"
+        android:textSize="35px" 
+        android:text="Brightness : 50"/>
+
+    <Button
+        android:id="@+id/display_on"
+        android:layout_width="250px"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/l_btn"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="31dp"
+        android:text="Display ON" />
+
+    <Button
+        android:id="@+id/display_off"
+        android:layout_width="250px"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/display_on"
+        android:layout_alignBottom="@+id/display_on"
+        android:layout_alignRight="@+id/o_btn"
+        android:text="Display OFF" />
+
+    <Button
+        android:id="@+id/l_btn"
+        android:layout_width="250px"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/display_on"
+        android:layout_marginLeft="23dp"
+        android:layout_marginTop="171dp"
+        android:text="Heart" />
+
+    <SeekBar
+        android:id="@+id/seekbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/o_btn"
+        android:layout_marginLeft="50px"
+        android:layout_marginRight="50px"
+        android:layout_marginBottom="48dp" />
+
+    <Button
+        android:id="@+id/anim_on"
+        android:layout_width="250px"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/seekbar"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="33dp"
+        android:textSize="32px"
+        android:text="TShirt OS" />
+
+    <Button
+        android:id="@+id/anim_off"
+        android:layout_width="275px"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/anim_on"
+        android:layout_alignRight="@+id/e_btn"
+        android:textSize="32px"
+        android:visibility="invisible"
+        android:text="Space Invader OFF" />
+
+</RelativeLayout>

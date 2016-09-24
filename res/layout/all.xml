@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="match_parent"
+        android:layout_height="75px"
+        android:gravity="center_vertical"
+        android:text="Result will print here : " />
+
+    <TextView
+        android:id="@+id/show_data"
+        android:layout_width="match_parent"
+        android:layout_height="75px"
+        android:background="#fff"
+        android:textColor="#000"/>
+    
+    <RelativeLayout
+         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+        
+        <Button 
+            	android:id="@+id/open"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:text="Open connection"/>
+
+        <Button
+            android:id="@+id/close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="Close connection" />
+
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+            
+            <Button 
+                android:id="@+id/loop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="OPERATING MODE LOOP"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/one_pass"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="OPERATING MODE ONE PASS"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/bypass_boot_up"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="OPERATING MODE BYPASS BOOT UP"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/disable_display"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="OPERATING MODE DISABLE DISPLAY"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/resume_display"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="OPERATING MODE RESUME DISPLAY"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/set_last_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SET LAST ADDRESS AND LOOPING MODE"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/set_load_from_flash"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SET LOAD FROM FLASH AND ENABLE LOOPING"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/set_load_from_radio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SET LOAD FROM RADIO"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/set_to_run_flash"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SET TO RUN FLASH LOOPING FULL BRIGHTNESS"
+                android:onClick="sendData"/>
+            
+            <!-- <Button 
+                android:id="@+id/set_to_run_from_radio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SET TO RUN FROM RADIO SYNC MESSAGE BROADCAST"
+                android:onClick="sendData"/> -->
+            
+            <Button 
+                android:id="@+id/set_matrix_brightness"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADJUST SETTINGS SET MATRIX BRIGHTNESS"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/set_framerate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADJUST SETTINGS SET FRAMERATE"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/set_led_brightness"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADJUST SETTINGS SET LED BRIGHTNESS"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/set_message"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADJUST SETTINGS SET MESSAGES"
+                android:onClick="sendData"/>
+            
+            
+            <Button 
+                android:id="@+id/one_frame"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADD ONE FRAME"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/two_frame"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADD TWO FRAME"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/three_frame"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADD THREE FRAME"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/four_frame"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADD FOUR FRAME"
+                android:onClick="sendData"/>
+            
+            
+            <Button 
+                android:id="@+id/get_battery_voltage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="GET BATTERY VOLTAGE"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/ping_ms"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="PING ms"
+                android:onClick="sendData"/>
+            
+            <Button 
+                android:id="@+id/get_info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="GET INFO"
+                android:onClick="sendData"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
