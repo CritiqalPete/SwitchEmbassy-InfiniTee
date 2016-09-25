@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_06111237e383c98ba316138759efe74ded20c205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_90d515c3550497725415a70f9db5e484dbe39b0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_6c5951ad499b115ae4d1b8dc4295d065706a2b27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_321d813204907982b8c72d3219182a46b476ddf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5916c1ab66b641c860538dd989f91b57dbbe2f85.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_95f092897ad0a66dfd49e89d50261fd43dac0cff/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3c7e8ff9f476d0d93ee7b046fbe8037a2b822c0">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/com.android.support-support-v13-24.2.1_3b23865da360dcd3129043272552454b14998104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3a64a59b2642d2cf45c575313f9980637ab0412f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_896668bd881b4f34717af110ec0d645b54de772e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/sdk/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_eab231e6dbf987bbea44d96c29e7b61002b7e7ef.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.2/31fbbff1ddbf98f3aa7377c94d33b0447c646b6e/httpcore-4.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpcore-4.3.2_7325a87ecff4d267c186e8855e4b7e9fdeb4ebc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_3dacf03e76da2f04621fd717b12215329d2a4d47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.2/31fbbff1ddbf98f3aa7377c94d33b0447c646b6e/httpcore-4.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/httpcore-4.3.2_7325a87ecff4d267c186e8855e4b7e9fdeb4ebc8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="42c6161ffb4bdc00ea720cdc283fae6df1d4c255">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1f23e5cdd00045243ab7890e35335d425f3c4a1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_6510336141c3f9a6f7ef5ab68368ea1dab150edd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_78ac3893c00b790ffd4c77077b8ce70c37320031/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2724707f0aef8c39b955c8e4c010aee2b61347f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b88fd1c5ba76874462eb651eeae64bf3d3c42a35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d88d7d9ab0829c8eb3bce957cddd946453de558c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/libs/assl_sdk_rmn.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9d91f5cdf5ad7983b331069efe5f617164208f2b">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/assl_sdk_rmn_1156a63780c791767aa66d0dc817cb497566529c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_932492eb9a1feab879739cf9d33b1cc5ea5f7354.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/libs/assl_sdk_rmn.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9d91f5cdf5ad7983b331069efe5f617164208f2b">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/2/assl_sdk_rmn_77371336aa5dcf8f8f6e14b861da1dd1ef916898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_73b11c6932940525b647cab4fa5da9c590ae733d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/.gradle/caches/modules-2/files-2.1/com.flurry.android/analytics/6.3.1/13d41a7e4ea1aac6b72aeab124253c49f8530611/analytics-6.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="13d41a7e4ea1aac6b72aeab124253c49f8530611">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/analytics-6.3.1_44583770e962000ad1d5bf119d1937fd130fcfe3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_e050df22f3e44c5894131ceca24228ec22f41826/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_bb9a2dc706b1b1fba6c98b0862ff620d6ab47952/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_e099ef6235360960af9aac41bf768760d3ad6a68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/.gradle/caches/modules-2/files-2.1/com.flurry.android/analytics/6.3.1/13d41a7e4ea1aac6b72aeab124253c49f8530611/analytics-6.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="13d41a7e4ea1aac6b72aeab124253c49f8530611">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/analytics-6.3.1_44583770e962000ad1d5bf119d1937fd130fcfe3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c07fb99b729345908dda75fadbbf882e300631ff">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b9835e4b19943249c9c88af99d72c4eb2f2f2054/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_62d6ea4322832a5341c36348d8986aa68e055ba1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_96a5f8a0e7d530eb762e46ff9061a4efe5316273/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_896668bd881b4f34717af110ec0d645b54de772e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/sdk/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_eab231e6dbf987bbea44d96c29e7b61002b7e7ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ad9a6b5e8cdbb6ef13f2f561babfea27ce955fc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c07fb99b729345908dda75fadbbf882e300631ff">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3679b2c70d77a7176f710139c1f51e8e78875aea.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_ba302cd5bafdd216428a1934fbd67902288ad292/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_96a5f8a0e7d530eb762e46ff9061a4efe5316273.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3c7e8ff9f476d0d93ee7b046fbe8037a2b822c0">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.2.1_d92824032a7a3d63543cfafd78402cf6b6dbaf42/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_ba302cd5bafdd216428a1934fbd67902288ad292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_29d09a0ff758865f3ca66afe5da9365c23b5bbfb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c98dfda0d3fbbc1cf94ec26ca8900c14bb9f8d1">
+        <dex dex="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cd56dc86bc827151c2637191b07fee16f606398e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/shane/source/highway1/android/SwitchEmbassy-InfiniTee/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_5350fd56fd9212a319a6977b8929f44dddfef584.jar" />
+    </item>
+
+</items>
