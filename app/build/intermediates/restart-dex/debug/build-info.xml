@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="141061965338949"
+    token="-2332565139276001350"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="280" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="203" />
+    <task
+        name="verifier"
+        duration="6" />
+
+    <artifact
+        location="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="141061965338949"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

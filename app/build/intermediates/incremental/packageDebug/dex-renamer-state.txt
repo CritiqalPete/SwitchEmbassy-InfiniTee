@@ -1,0 +1,7 @@
+#Sun Sep 25 11:29:03 PDT 2016
+base.0=/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1f23e5cdd00045243ab7890e35335d425f3c4a1d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cd56dc86bc827151c2637191b07fee16f606398e/classes.dex
+base.1=/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cd56dc86bc827151c2637191b07fee16f606398e
+file.0=/home/shane/source/highway1/SwitchEmbassy-InfiniTee/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1f23e5cdd00045243ab7890e35335d425f3c4a1d/classes.dex
